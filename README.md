@@ -9,4 +9,6 @@ The implemented methods are:
   * high-pass
   * low pass
   * Gauss
-in addition, the code includes methods implementing example methods based on cellular automata such as "game of life" and "forest fire"
+
+
+In addition, the code includes methods implementing example methods based on cellular automata such as "game of life" and "forest fire"
