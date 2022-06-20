@@ -6,7 +6,7 @@ The implemented methods are:
 * save the result as a .jpg file or as a .txt
 * image binarization
 * applying filters to the image:
-** high-pass
-** low pass
-** Gauss
+* * high-pass
+* * low pass
+* * Gauss
 in addition, the code includes methods implementing example methods based on cellular automata such as "game of life" and "forest fire"
